@@ -65,4 +65,4 @@ An NTP server is available from `time.adn.networklayer.com`, which should resolv
 ## Cloud Service Endpoints
 {: #cloud-service-endpoints}
 
-Cloud service endpoints are services provided by other cloud users. They will be available soon through DNS names in the `cloud.ibm.com` domain. They resolve to `166.8.0.0/14` addresses.
+Cloud service endpoints are services provided by other cloud users. They will be available soon through DNS names in the `cloud.ibm.com` domain. They resolve to `166.9.0.0/14` addresses.
